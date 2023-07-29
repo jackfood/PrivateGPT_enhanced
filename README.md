@@ -18,3 +18,9 @@ Outlook_Extract.py
 
 PrivateGPT.py
 - added simple GUI for query.
+
+Summaries txt using LLM v2 and .env
+- Download Env.env
+- Rename as .env
+- edit the .env file according to the directory where you store .txt that you want to summarize, as well location to save summarized txt
+- ensure Llama model (GGLM) is downloaded and store in the 'Model' folder privateGPT.
