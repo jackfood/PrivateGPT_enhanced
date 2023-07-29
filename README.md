@@ -15,3 +15,6 @@ Outlook_Extract.py
 - summarize your emails.
 - Be sure to change 'save_dir' and 'model_path'.
 - Current model used for summarization is 'bart-large-cnn' from hugging face.
+
+PrivateGPT.py
+- added simple GUI for query.
